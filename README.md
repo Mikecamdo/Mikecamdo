@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello there! I'm Michael Doherty 👋
+
+- I'm currently a Junior studying Computer Science at Southern Methodist University.
+- I'm currently interested in learning more about Artificial Intelligence, Machine Learning, and Web Development
+- Feel free to contact me with any inquiries at: mcdoherty@smu.edu
+
+### My GitHub Stats
+
+![Mikecamdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikecamdo&show_icons=true&theme=dark)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Mikecamdo&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **Mikecamdo/Mikecamdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
