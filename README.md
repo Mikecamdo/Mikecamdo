@@ -6,9 +6,11 @@
 
 ### My GitHub Stats
 
-![Mikecamdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikecamdo&show_icons=true&theme=dark)
+![Mikecamdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikecamdo&show_icons=true&theme=dark&hide_border=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Mikecamdo&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Mikecamdo&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+[![](https://visitcount.itsvg.in/api?id=Mikecamdo&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!--
 **Mikecamdo/Mikecamdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
