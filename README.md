@@ -12,6 +12,10 @@
 
 [![](https://visitcount.itsvg.in/api?id=Mikecamdo&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
+### Currently Listening to
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mikecamdo&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=mikecamdo&redirect=true)
+
 <!--
 **Mikecamdo/Mikecamdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
