@@ -1,6 +1,6 @@
 ### Hello there! I'm Michael Doherty 👋
 
-- I'm currently a Junior studying Computer Science at Southern Methodist University.
+- I'm currently a Senior studying Computer Science at Southern Methodist University.
 - I'm currently interested in learning more about Artificial Intelligence, Machine Learning, and Web Development
 - Feel free to contact me with any inquiries at: mcdoherty@smu.edu
 
